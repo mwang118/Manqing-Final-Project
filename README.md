@@ -6,3 +6,8 @@ It contains two chapters of my choice for this project which are chapter 8 and 1
 To run py files properly, I suggest installing package inflect upfront in order to run one of the file successfully.
 
 To type in the user's input, please follow the prompt.
+
+
+## Table of Contents
+1. [Loop Structures and Booleans](https://github.com/mwang118/Manqing-Final-Project/tree/master/Chapter%208)
+2. [Algorithm Design and Recursion](https://github.com/mwang118/Manqing-Final-Project/tree/master/Chapter%2013)
