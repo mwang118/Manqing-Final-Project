@@ -9,5 +9,5 @@ To type in the user's input, please follow the prompt.
 
 
 ## Table of Contents
-1. [Loop Structures and Booleans](https://github.com/mwang118/Manqing-Final-Project/tree/master/Chapter%208)
-2. [Algorithm Design and Recursion](https://github.com/mwang118/Manqing-Final-Project/tree/master/Chapter%2013)
+1. [Chapter 8: Loop Structures and Booleans](https://github.com/mwang118/Manqing-Final-Project/tree/master/Chapter%208)
+2. [Chapter 13: Algorithm Design and Recursion](https://github.com/mwang118/Manqing-Final-Project/tree/master/Chapter%2013)
